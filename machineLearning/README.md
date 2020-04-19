@@ -1,1 +1,1 @@
-From simple lineer regression to optimized recognizers
+From simple linear regression to optimized recognizers
